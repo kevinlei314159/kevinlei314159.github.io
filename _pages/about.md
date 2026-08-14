@@ -29,3 +29,5 @@ latest_posts:
 
 I am a first year PhD candidate in computational linguistics supervised by [Prof. Hinrich Schütze](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en). My main research interest include mechanistic interpretability and post-training methods for LLMs.
 
+E-Mail:kaiwei[at]cis[dot]lmu[dot]de
+
