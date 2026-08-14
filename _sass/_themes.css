@@ -6,11 +6,7 @@ html[data-theme="dark"] {
   --global-theme-color: #6699cc;
 }
 
-/* White text on venue badges */
-.venue {
-  color: #ffffff !important;
-}
-
-.venue a {
+/* White text for publication venue badges */
+.publication-list .badge {
   color: #ffffff !important;
 }
