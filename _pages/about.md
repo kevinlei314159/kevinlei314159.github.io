@@ -14,20 +14,20 @@ profile:
   #  <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a first year PhD candidate in computational linguistics supervised by [Prof. Hinrich Schütze](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en). My main research interest include mechanistic interpretability and post-training methods for LLMs.
 
-E-Mail:kaiwei[at]cis[dot]lmu[dot]de
+E-Mail: kaiwei[at]cis[dot]lmu[dot]de
 
