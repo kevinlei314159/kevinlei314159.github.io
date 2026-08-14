@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='https://www.cis.uni-muenchen.de/ueber_uns/index.html'>Center for Information and Language Processing (CIS) </a>. LMU Munich
+subtitle: PhD Candidate at <a href='https://www.cis.uni-muenchen.de/ueber_uns/index.html'>Center for Information and Language Processing (CIS) </a>, LMU Munich
 
 profile:
   align: right
