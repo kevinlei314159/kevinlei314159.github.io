@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at BMW Group, <a href='https://www.cis.uni-muenchen.de/ueber_uns/index.html'>Center for Information and Language Processing (CIS) </a>, LMU Munich and MCML
+subtitle: PhD Candidate at BMW Group and <a href='https://www.cis.uni-muenchen.de/ueber_uns/index.html'>Center for Information and Language Processing (CIS) </a>, LMU Munich
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first year PhD candidate in computational linguistics supervised by [Prof. Hinrich Schütze](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en). My main research interest include mechanistic interpretability and post-training methods for LLMs.
+I am a first year PhD candidate in computational linguistics at BMW Group, supervised by [Prof. Hinrich Schütze](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en). My main research interest include mechanistic interpretability and post-training methods for LLMs. I am also a junior member of [Munich Center for Machine Learning](https://mcml.ai/research/groups/schuetze/) (MCML).
 
 E-Mail: kaiwei[at]cis[dot]lmu[dot]de
 
